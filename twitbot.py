@@ -12,6 +12,7 @@ connection = pymysql.connect(host='localhost',
 
 print("Setting Up Tweepy Api ...")
 
+# Examples keys. These won't work
 consumer_key="UgkTh5rjU0WL1jVx2OA4c4Oyq"
 consumer_secret="vQ8H5B2ctITTIwBKWV2Rr97i5toJKVzp4Awrr6IEQXq2RCvDHG"
 access_token="784225248493367296-BTQE4PhHdoHm5pKLAc9zpDrEawF07C3"
